@@ -1,3 +1,7 @@
 # Projeto para cadastro de notas
 
-Neste projeto o usuário pode se cadastrar e com isso terá acesso a uma aplicação em que ele poderá cadastrar notas.
+##Descrição
+Neste projeto, cada usuário  poderá cadastrar uma conta e nela realizar suas anotações sobre diversos temas, como receitas,  tutoriais e em cada nota poderá inseir links e tags para facilitar na busca dessas posteriormente.
+  
+##Tecnologias utilizadas: 
+React e Styled-Components
