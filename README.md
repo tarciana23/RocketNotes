@@ -1,9 +1,7 @@
 📒 Projeto de Cadastro de Notas
 --
 ✨ Descrição
-Este é um aplicativo web completo para registro, organização e gerenciamento de anotações. Os usuários podem criar suas contas para armazenar notas sobre os mais diversos temas — como receitas, tutoriais, ideias e muito mais.
-
-Cada nota pode conter links e tags personalizadas, proporcionando uma navegação rápida e eficiente. A proposta do projeto é oferecer uma experiência intuitiva, prática e personalizada, permitindo que os usuários classifiquem e encontrem suas anotações de forma simples e organizada.
+Este é um aplicativo web completo para registro, organização e gerenciamento de anotações. Os usuários podem criar suas contas para armazenar notas sobre os mais diversos temas — como receitas, tutoriais, ideias e muito mais. Cada nota pode conter links e tags personalizadas, proporcionando uma navegação rápida e eficiente. A proposta do projeto é oferecer uma experiência intuitiva, prática e personalizada, permitindo que os usuários classifiquem e encontrem suas anotações de forma simples e organizada.
 --
 🚀 Funcionalidades
 - Criação de conta e autenticação de usuário
